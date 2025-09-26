@@ -1,0 +1,2 @@
+# Sejisrepo
+Scrip termux
