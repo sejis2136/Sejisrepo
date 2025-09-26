@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ git clone https://github.com/sejis2136/Sejisrepo.git```
 
-```bash $ cd Sdomin```
+```bash $ cd SejisRepe```
 
 ```bash $ pip3 install -r requirements.txt```
 
